@@ -1,0 +1,7 @@
+interface:
+  display_name: "Project Foundation Docs"
+  short_description: "Create whitepaper, AGENTS, and README baselines"
+  default_prompt: "Use $project-foundation-docs to create or refresh this repo's whitepaper, root AGENTS.md, and README.md."
+
+policy:
+  allow_implicit_invocation: true

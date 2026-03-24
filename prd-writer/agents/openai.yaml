@@ -1,0 +1,7 @@
+interface:
+  display_name: "PRD Writer"
+  short_description: "Write implementation-facing feature PRDs"
+  default_prompt: "Use $prd-writer to draft or refine an implementation-facing PRD for this feature."
+
+policy:
+  allow_implicit_invocation: true
