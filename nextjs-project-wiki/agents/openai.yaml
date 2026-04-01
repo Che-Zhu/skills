@@ -1,0 +1,7 @@
+interface:
+  display_name: "Next.js Project Wiki"
+  short_description: "Generate and refresh repo-local wiki docs for Next.js"
+  default_prompt: "Use $nextjs-project-wiki to create or refresh docs/wiki for this single-repo Next.js project."
+
+policy:
+  allow_implicit_invocation: true
